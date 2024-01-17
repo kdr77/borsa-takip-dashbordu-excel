@@ -1,0 +1,1 @@
+porföydeki verilerden hisse senedi bilgilerinin güncel bilgilerini internetten çeker,ekleme veya silme durumunda otomatik güncellenir.En çok yükselen ve azalan 5 değeri ve BIST100 ün son 3 aylık verisini grafik şeklinde içerir.
